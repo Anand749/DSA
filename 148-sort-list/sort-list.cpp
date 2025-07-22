@@ -11,26 +11,24 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        vector<int>arr;
-        ListNode* temp=head;
+        vector<int> arr;
 
-        while(temp!=nullptr)
-        {
+        ListNode* temp = head;
+
+        while (temp != NULL) {
             arr.push_back(temp->val);
-            temp=temp->next;
+            temp = temp->next;
         }
 
-        sort(arr.begin(),arr.end());
+        sort(arr.begin(), arr.end());
 
-        int i=0;
-        temp=head;
-        while(temp!=nullptr)
-        {
-            temp->val=arr[i];
-            i++;
-            temp=temp->next;
+        temp = head;
+        for (int i = 0; i < arr.size(); i++) {
+
+            temp->val = arr[i];
+
+            temp = temp->next;
         }
-
 
         return head;
     }
