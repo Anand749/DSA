@@ -2,8 +2,8 @@ class Solution {
 public:
     int candy(vector<int>& nums) {
         int n = nums.size();
-        vector<int> a (n, 1);
-        vector<int> b (n, 1);
+        vector<int> a(n, 1);
+        vector<int> b(n, 1);
 
         for (int i = 1; i < n; i++) {
             if (nums[i] > nums[i - 1])
