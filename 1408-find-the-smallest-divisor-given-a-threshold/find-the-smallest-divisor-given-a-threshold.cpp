@@ -1,33 +1,28 @@
-#include <vector>
-#include <algorithm>
-#include <cmath>
-using namespace std;
-
 class Solution {
-    int sum1(const vector<int>& nums, int mid) {
-        int sum = 0;
-        for (int num : nums) {
-            sum += ceil((double)num / mid);
+public:
+    int sum1(vector<int>& nums, int mid) {
+        int n = nums.size();
+        int ans = 0;
+
+        for (auto it : nums) {
+            ans+=ceil((double)it / mid);
         }
-        return sum;
+        return ans;
     }
 
-public:
-    int smallestDivisor(vector<int>& nums, int threshold) {
-        int low = 1, high = *max_element(nums.begin(), nums.end());
-        int ans = -1;
+    int smallestDivisor(vector<int>& nums, int tar) {
+        int l = 1,r = *max_element(nums.begin(), nums.end());
+        int ans=r;
+        while (l <= r) {
 
-        while (low <= high) {
-            int mid = (low + high) / 2;
+            int mid = l + (r - l) / 2;
 
-            if (sum1(nums, mid) <= threshold) {
+            if (sum1(nums, mid) <= tar) {
                 ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
+                r = mid - 1;
+            } else
+                l = mid + 1;
         }
-
         return ans;
     }
 };
