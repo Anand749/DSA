@@ -4,20 +4,15 @@ public:
         stack<char> st;
         string ans = "";
 
-        for (int i = 0; i < s.size(); i++) {
-
-            if (s[i] == '(') {
-                if (!st.empty()) {
-                    ans.push_back('(');
-                     
-                }
-                st.push('(');
+        for (auto c : s) {
+            if (c == '(') {
+                if (!st.empty())
+                    ans += c;
+                st.push(c);
             } else {
-                 st.pop();
-                if (!st.empty()) {
-                    ans.push_back(')');
-                     
-                }
+                st.pop();
+                if (!st.empty())
+                    ans += c;
             }
         }
 
