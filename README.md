@@ -39,4 +39,16 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
