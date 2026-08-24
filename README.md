@@ -6,6 +6,7 @@ Data Structures and Algorithms Practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@ Data Structures and Algorithms Practice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -62,4 +64,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
