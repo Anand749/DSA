@@ -31,6 +31,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
