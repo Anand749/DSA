@@ -18,6 +18,7 @@ Data Structures and Algorithms Practice
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Anand749/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -48,6 +49,7 @@ Data Structures and Algorithms Practice
 | [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anand749/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Anand749/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -75,4 +77,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Anand749/DSA/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
