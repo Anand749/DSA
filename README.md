@@ -12,6 +12,7 @@ Data Structures and Algorithms Practice
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ Data Structures and Algorithms Practice
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Anand749/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +90,7 @@ Data Structures and Algorithms Practice
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -101,6 +104,7 @@ Data Structures and Algorithms Practice
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -111,4 +115,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
