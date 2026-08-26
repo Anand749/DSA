@@ -10,6 +10,7 @@ Data Structures and Algorithms Practice
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -105,6 +106,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
 | ------- |
