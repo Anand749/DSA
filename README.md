@@ -7,6 +7,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -74,6 +75,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
@@ -90,6 +92,7 @@ Data Structures and Algorithms Practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
