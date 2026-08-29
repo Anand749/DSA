@@ -22,6 +22,7 @@ Data Structures and Algorithms Practice
 | [0930-binary-subarrays-with-sum](https://github.com/Anand749/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Data Structures and Algorithms Practice
 | [0930-binary-subarrays-with-sum](https://github.com/Anand749/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Data Structures and Algorithms Practice
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anand749/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
