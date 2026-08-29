@@ -18,6 +18,7 @@ Data Structures and Algorithms Practice
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -139,4 +141,9 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand749/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
