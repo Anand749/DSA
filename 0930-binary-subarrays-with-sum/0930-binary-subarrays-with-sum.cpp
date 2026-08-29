@@ -10,8 +10,8 @@ public:
         while(r<nums.size()){
             sum+=nums[r];
 
-            while(sum>goal){
-                sum-=nums[l];
+            while (sum > goal) {
+                sum -= nums[l];
                 l++;
             }
 
