@@ -28,6 +28,7 @@ Data Structures and Algorithms Practice
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anand749/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Data Structures and Algorithms Practice
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anand749/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anand749/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -206,4 +208,5 @@ Data Structures and Algorithms Practice
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Anand749/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
