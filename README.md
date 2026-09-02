@@ -9,6 +9,7 @@ Data Structures and Algorithms Practice
 | [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anand749/DSA/tree/master/0056-merge-intervals) |
@@ -91,6 +92,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anand749/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Anand749/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anand749/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anand749/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -110,6 +112,7 @@ Data Structures and Algorithms Practice
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
@@ -149,6 +152,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 ## Manacher
@@ -192,6 +196,7 @@ Data Structures and Algorithms Practice
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
