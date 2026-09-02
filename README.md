@@ -21,6 +21,7 @@ Data Structures and Algorithms Practice
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Anand749/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Anand749/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anand749/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Anand749/DSA/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Data Structures and Algorithms Practice
 | [0232-implement-queue-using-stacks](https://github.com/Anand749/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Anand749/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Anand749/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anand749/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
