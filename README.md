@@ -29,6 +29,7 @@ Data Structures and Algorithms Practice
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anand749/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3904-smallest-stable-index-ii](https://github.com/Anand749/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Data Structures and Algorithms Practice
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anand749/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3904-smallest-stable-index-ii](https://github.com/Anand749/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
