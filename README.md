@@ -215,4 +215,8 @@ Data Structures and Algorithms Practice
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anand749/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Anand749/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
