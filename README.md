@@ -36,6 +36,7 @@ Data Structures and Algorithms Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand749/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Anand749/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ Data Structures and Algorithms Practice
 | [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Anand749/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -219,6 +221,7 @@ Data Structures and Algorithms Practice
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Anand749/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anand749/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anand749/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -226,4 +229,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anand749/DSA/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
