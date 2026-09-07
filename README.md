@@ -125,6 +125,7 @@ Data Structures and Algorithms Practice
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Anand749/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -219,4 +220,5 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anand749/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Anand749/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
