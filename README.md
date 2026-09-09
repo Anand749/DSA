@@ -129,6 +129,7 @@ Data Structures and Algorithms Practice
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anand749/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Anand749/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand749/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Anand749/DSA/tree/master/0148-sort-list) |
@@ -232,6 +233,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anand749/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Anand749/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Anand749/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand749/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Anand749/DSA/tree/master/0148-sort-list) |
