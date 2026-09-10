@@ -9,6 +9,7 @@ Data Structures and Algorithms Practice
 | [0014-longest-common-prefix](https://github.com/Anand749/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Anand749/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anand749/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anand749/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
@@ -210,6 +211,7 @@ Data Structures and Algorithms Practice
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anand749/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anand749/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Anand749/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
