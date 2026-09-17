@@ -29,6 +29,7 @@ Data Structures and Algorithms Practice
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Anand749/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Anand749/DSA/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/Anand749/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Anand749/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anand749/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anand749/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -222,6 +223,7 @@ Data Structures and Algorithms Practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Anand749/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Anand749/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
