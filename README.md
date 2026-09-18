@@ -21,6 +21,7 @@ Data Structures and Algorithms Practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anand749/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Anand749/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
@@ -288,6 +289,7 @@ Data Structures and Algorithms Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anand749/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anand749/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
