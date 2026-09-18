@@ -75,6 +75,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -269,6 +270,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anand749/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anand749/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -283,4 +285,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anand749/DSA/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
