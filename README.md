@@ -18,6 +18,7 @@ Data Structures and Algorithms Practice
 | [0056-merge-intervals](https://github.com/Anand749/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anand749/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Anand749/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anand749/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand749/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -289,7 +290,12 @@ Data Structures and Algorithms Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anand749/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anand749/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anand749/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anand749/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
