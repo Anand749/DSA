@@ -15,6 +15,7 @@ Data Structures and Algorithms Practice
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anand749/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anand749/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anand749/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ Data Structures and Algorithms Practice
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Anand749/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Anand749/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -203,6 +205,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Anand749/DSA/tree/master/0678-valid-parenthesis-string) |
