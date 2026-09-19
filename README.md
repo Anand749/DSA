@@ -27,6 +27,7 @@ Data Structures and Algorithms Practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anand749/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anand749/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -150,12 +151,14 @@ Data Structures and Algorithms Practice
 | [0151-reverse-words-in-a-string](https://github.com/Anand749/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anand749/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Anand749/DSA/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Anand749/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anand749/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Anand749/DSA/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -175,6 +178,7 @@ Data Structures and Algorithms Practice
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,6 +212,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anand749/DSA/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
