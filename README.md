@@ -13,6 +13,7 @@ Data Structures and Algorithms Practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anand749/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anand749/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Anand749/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
@@ -162,6 +163,7 @@ Data Structures and Algorithms Practice
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anand749/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Anand749/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
@@ -205,6 +207,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anand749/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Anand749/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
