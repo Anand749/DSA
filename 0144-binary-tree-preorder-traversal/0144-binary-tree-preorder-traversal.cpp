@@ -6,23 +6,46 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int>& ans) {
-        if (root == nullptr)
-            return;
-        ans.push_back(root->val); // Root
-        solve(root->left, ans);   // Left
-        solve(root->right, ans);  // Right
-    }
+void preo(TreeNode* node,vector<int> &ans)    /// using recursion
+{
+    if(node ==NULL)return;
 
+
+    ans.push_back(node->val);
+    preo(node->left,ans);
+    preo(node->right,ans);
+}
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        solve(root, ans);
+        
+    //  vector<int>ans;
+    //  preo(root,ans);
+    //     return ans;
+
+
+     stack<TreeNode*>st;         ///using iterative 
+        vector<int>ans;
+        if (!root) {
+            return ans;
+        }
+        st.push(root);
+
+        while(!st.empty())
+        {
+            TreeNode* node=st.top();
+            st.pop();
+
+             ans.push_back(node->val);
+
+            if(node->right)st.push(node->right);
+            if(node->left)st.push(node->left);
+        }
+
         return ans;
+
     }
 };
