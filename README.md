@@ -84,12 +84,14 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/Anand749/DSA/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anand749/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anand749/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Anand749/DSA/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Anand749/DSA/tree/master/0735-asteroid-collision) |
 ## Prefix Sum
 |  |
@@ -112,6 +114,7 @@ Data Structures and Algorithms Practice
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand749/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Anand749/DSA/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Anand749/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anand749/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anand749/DSA/tree/master/0678-valid-parenthesis-string) |
