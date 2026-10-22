@@ -31,10 +31,10 @@ public:
                 st1.push(node->right);
         }
 
-        while (!st2.empty()) {
-            ans.push_back(st2.top()->val);
-            st2.pop();
-        }
+            while (!st2.empty()) {
+                ans.push_back(st2.top()->val);
+                st2.pop();
+            }
 
         return ans;
     }
