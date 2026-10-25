@@ -29,6 +29,7 @@ Data Structures and Algorithms Practice
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
@@ -194,6 +195,7 @@ Data Structures and Algorithms Practice
 | [0018-4sum](https://github.com/Anand749/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anand749/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Anand749/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand749/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -201,6 +203,7 @@ Data Structures and Algorithms Practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand749/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -312,6 +315,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anand749/DSA/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -373,4 +377,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Anand749/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
