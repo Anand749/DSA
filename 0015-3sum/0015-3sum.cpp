@@ -10,7 +10,7 @@ public:
                 continue;
 
             int l = i + 1, r = n - 1;
-
+    
             while (l < r) {
                 int sum = nums[i] + nums[l] + nums[r];
 
