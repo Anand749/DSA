@@ -6,23 +6,22 @@ public:
         stack<int> st;
 
         for (int i = n - 1; i >= 0; i--) {
-            int ele = nums2[i];
-            while (!st.empty() && st.top() <= ele)
+            int num = nums2[i];
+
+            while (!st.empty() && st.top() <= num)
                 st.pop();
 
             if (st.empty())
-                mpp[ele] = -1;
+                mpp[num] = -1;
             else
-                mpp[ele] = st.top();
+                mpp[num] = st.top();
 
-            st.push(ele);
+            st.push(num);
         }
-
         vector<int> ans;
         for (int i = 0; i < nums1.size(); i++) {
             ans.push_back(mpp[nums1[i]]);
         }
-
         return ans;
     }
 };
