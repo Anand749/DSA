@@ -260,6 +260,7 @@ Data Structures and Algorithms Practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anand749/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Anand749/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Anand749/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Anand749/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anand749/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -325,6 +326,7 @@ Data Structures and Algorithms Practice
 | ------- |
 | [0078-subsets](https://github.com/Anand749/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anand749/DSA/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Anand749/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anand749/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
@@ -341,6 +343,7 @@ Data Structures and Algorithms Practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anand749/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anand749/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anand749/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Anand749/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anand749/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anand749/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -363,6 +366,7 @@ Data Structures and Algorithms Practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anand749/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anand749/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anand749/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Anand749/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anand749/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anand749/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
