@@ -33,6 +33,7 @@ Data Structures and Algorithms Practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anand749/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anand749/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Anand749/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Anand749/DSA/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Anand749/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Anand749/DSA/tree/master/0496-next-greater-element-i) |
@@ -346,6 +347,7 @@ Data Structures and Algorithms Practice
 | [0040-combination-sum-ii](https://github.com/Anand749/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anand749/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anand749/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Anand749/DSA/tree/master/0216-combination-sum-iii) |
 ## Tree
 |  |
 | ------- |
