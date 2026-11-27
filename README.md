@@ -88,6 +88,7 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anand749/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Anand749/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Anand749/DSA/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Anand749/DSA/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anand749/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -230,6 +231,7 @@ Data Structures and Algorithms Practice
 | [0042-trapping-rain-water](https://github.com/Anand749/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anand749/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anand749/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anand749/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anand749/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anand749/DSA/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Anand749/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -400,4 +402,8 @@ Data Structures and Algorithms Practice
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand749/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anand749/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
